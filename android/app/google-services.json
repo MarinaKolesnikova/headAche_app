@@ -1,0 +1,49 @@
+{
+    "project_info": {
+        "project_number": "808777708392",
+        "firebase_url": "https://migtracker-default-rtdb.europe-west1.firebasedatabase.app",
+        "project_id": "migtracker",
+        "storage_bucket": "migtracker.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:808777708392:android:bb2b0795ee31d746505cdd",
+            "android_client_info": {
+                "package_name": "com.mobile.migtracker"
+            }
+        },
+        "oauth_client": [{
+                "client_id": "808777708392-p1d9th79a6lldsjocanfmlfpvcok2ptn.apps.googleusercontent.com",
+                "client_type": 1,
+                "android_info": {
+                    "package_name": "com.mobile.migtracker",
+                    "certificate_hash": "29ee92ae2c23b6b9487222583f89110c0b42b54a"
+                }
+            },
+            {
+                "client_id": "808777708392-k42il6527t9apg6jsnpf3a5uik34f3m2.apps.googleusercontent.com",
+                "client_type": 3
+            }
+        ],
+        "api_key": [{
+            "current_key": "AIzaSyDsnYytPEu2t5SWUsmsWhXrCjRAo-VH6s8"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                        "client_id": "808777708392-k42il6527t9apg6jsnpf3a5uik34f3m2.apps.googleusercontent.com",
+                        "client_type": 3
+                    },
+                    {
+                        "client_id": "808777708392-lcskqq96napfqq0hhvijgb6glf8m09f6.apps.googleusercontent.com",
+                        "client_type": 2,
+                        "ios_info": {
+                            "bundle_id": "com.mobile.migtracker"
+                        }
+                    }
+                ]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
